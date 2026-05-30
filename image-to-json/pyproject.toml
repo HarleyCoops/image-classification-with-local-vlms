@@ -9,16 +9,16 @@ authors = [
 requires-python = ">=3.12"
 dependencies = [
     "datasets>=4.1.1",
-    "dspy>=3.0.3",
+    "dspy>=3.0.4b1",
     "modal>=1.1.4",
     "outlines>=1.2.5",
     "peft>=0.15.2",
-    "pillow>=11.3.0",
+    "pillow>=12.2.0",
     "pydantic-settings>=2.10.1",
-    "requests>=2.32.5",
+    "requests>=2.33.0",
     "tqdm>=4.67.1",
     "torchao>=0.4.0",
-    "transformers==4.54.0",
+    "transformers==5.0.0rc3",
     "trl>=0.18.2",
     "wandb>=0.22.2",
 ]
